@@ -10,6 +10,7 @@
     
 - Usage
   - [Setup homepage](usage-homepage.md)
+  - [Setup logo & favicon](usage-logo-favicon.md)
   - [Menu](usage-menu.md)
   - [Theme options](usage-theme-options.md)
   - [Widgets](usage-widgets.md)
