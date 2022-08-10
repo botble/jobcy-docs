@@ -3,14 +3,14 @@
 - [Introduction](#introduction)
 - [Demo](#demo)
 - [Features](#features)
-- [Botble Team](#botble_team)
+- [Botble Team](#botble-team)
 
 <a name="introduction"></a>
 ## Introduction
 
 Jobcy is a multi-language job board System using Laravel 8.x. It's a product built on Botble CMS.
 
-Created: `Aug 10, 2022`
+Created: `Aug 15, 2022`
 
 By: [Botble Technologies](https://botble.com)
 
@@ -46,8 +46,8 @@ Password: `159357`
 - Fully Responsive: Compatible with all screen resolutions.
 - Coding Standard: All code follow coding standards PSR-2 and best practices.
 		
-<a name="botble_team"></a>
+<a name="botble-team"></a>
 ## Botble Team
 
-Visit us at [https://botble.com](botble.com)
+Visit us at [https://botble.com](https://botble.com)
 
