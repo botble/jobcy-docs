@@ -19,7 +19,9 @@
   - [Email](usage-email.md)
   - [Multi-language](usage-multi-language.md)
   - [Currencies](usage-currencies.md)
-  - [Setup Amazon S3](usage-media-s3.md)
+  - [Media - Setup Amazon S3](usage-media-s3.md)
+  - [Media - Setup BunnyCDN](usage-media-bunnycdn.md)
+  - [Media - Setup Wasabi](usage-media-wasabi.md)
   - [Analytics](usage-analytics.md)
   - [Backup](usage-backup.md)
   
