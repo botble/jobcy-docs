@@ -8,7 +8,7 @@
 <a name="introduction"></a>
 ## Introduction
 
-Jobcy is a multi-language job board System using Laravel 8.x. It's a product built on Botble CMS.
+Jobcy is a multi-language job board System using Laravel 9.x. It's a product built on Botble CMS.
 
 Created: `Aug 15, 2022`
 
