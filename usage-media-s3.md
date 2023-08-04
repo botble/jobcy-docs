@@ -12,7 +12,7 @@ If you need to use S3 for storage, you can configure to use S3 in Admin -> Setti
 
 ## Note
 
-::: note
+::: tip
 If you are not using the latest version. You need to add `'visibility' => 'public'` to `config/filesystems.php` line 53.
 :::
 

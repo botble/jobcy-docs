@@ -47,7 +47,7 @@ Example:
 
 ## Edit Email template
 
-- Email template using HTML & system variables.You need to know HTML and Laravel blade.
+- Email template using HTML & system variables. You need to know HTML and Laravel blade.
 
 ![Image](https://live.staticflickr.com/65535/51289630420_ef275de3a0_b.jpg)
 
