@@ -8,7 +8,8 @@ If you don't need it, you can deactivate plugin Newsletter in Admin -> Plugins.
 
 ![Image](https://live.staticflickr.com/65535/51301419431_a6fce8634a_b.jpg)
 
-To change title & description for this section or remove it from footer section, you can change it in Admin -> Appearance -> Widgets
+To change title & description for this section or remove it from footer section, you can change it in Admin ->
+Appearance -> Widgets
 
 ![Image](https://live.staticflickr.com/65535/52276903190_f01f83d792_b.jpg)
 
@@ -40,7 +41,7 @@ You can change or remove those menus from footer in Admin -> Appearance -> Widge
 
 ![Image](https://live.staticflickr.com/65535/52276898125_b178e098c4_b.jpg)
 
-## Blog sidebar widgets 
+## Blog sidebar widgets
 
 ![Image](https://live.staticflickr.com/65535/52276452208_852fed3a5e_b.jpg)
 
