@@ -30,7 +30,6 @@ export default [
       { text: 'Translation', link: '/jobcy/usage-translation' },
       { text: 'Multi-language', link: '/jobcy/usage-multi-language' },
       { text: 'Currencies', link: '/jobcy/usage-currencies' },
-      { text: 'Location', link: '/jobcy/usage-location' },
       { text: 'Google Analytics', link: '/jobcy/usage-analytics' },
       { text: 'Media - Setup Amazon S3', link: '/jobcy/usage-media-s3' },
       { text: 'Media - Setup BunnyCDN', link: '/jobcy/usage-media-bunnycdn' },
