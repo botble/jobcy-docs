@@ -25,7 +25,6 @@ export default [
       { text: 'Menu', link: '/jobcy/usage-menu' },
       { text: 'Theme options', link: '/jobcy/usage-theme-options' },
       { text: 'Widgets', link: '/jobcy/usage-widgets' },
-      { text: 'Rename theme', link: '/jobcy/theme-rename' },
       { text: 'Custom CSS/JS', link: '/jobcy/usage-custom-css-js' },
       { text: 'Translation', link: '/jobcy/usage-translation' },
       { text: 'Multi-language', link: '/jobcy/usage-multi-language' },
@@ -38,4 +37,10 @@ export default [
       { text: 'Setup social login', link: '/jobcy/usage-social-login' },
     ],
   },
+  {
+    text: 'Development',
+    items: [
+      { text: 'Rename theme', link: '/jobcy/theme-rename' },
+    ]
+  }
 ] satisfies DefaultTheme.SidebarItem[];
