@@ -36,8 +36,6 @@ export default [
       { text: 'Media - Setup BunnyCDN', link: '/jobcy/usage-media-bunnycdn' },
       { text: 'Media - Setup Wasabi', link: '/jobcy/usage-media-wasabi' },
       { text: 'Setup email', link: '/jobcy/usage-email' },
-      { text: 'Backup', link: '/jobcy/plugin-backup' },
-
       { text: 'Setup social login', link: '/jobcy/usage-social-login' },
     ],
   },
