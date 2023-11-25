@@ -35,6 +35,7 @@ export default [
       { text: 'Media - Setup Wasabi', link: '/jobcy/usage-media-wasabi' },
       { text: 'Setup email', link: '/jobcy/usage-email' },
       { text: 'Setup social login', link: '/jobcy/usage-social-login' },
+      { text: 'Setup cronjob', link: '/jobcy/cronjob' },
     ],
   },
   {
