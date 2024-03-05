@@ -20,9 +20,9 @@ Homepage: [https://jobcy.botble.com](https://jobcy.botble.com)
 
 Admin Area: [https://jobcy.botble.com/admin](https://jobcy.botble.com/admin)
 
-Username: `botble`
+Username: `admin`
 
-Password: `159357`
+Password: `12345678`
 
 ## Features
 
